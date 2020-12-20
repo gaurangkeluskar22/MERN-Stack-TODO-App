@@ -1,10 +1,10 @@
 # MERN Stack TODO App
 
-## INSERT
-<img src="./images/first.png"></img>
+## Insert
+<img src="./images/first.png" width="200"></img>
+<hr>
 
-
-## UPDATE
-<img src="./images/second.png"></img>
+## Update
+<img src="./images/second.png" ></img>
 <img src="./images/update.png"></img>
 
